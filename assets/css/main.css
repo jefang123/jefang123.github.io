@@ -3290,11 +3290,9 @@ input, select, textarea {
 	/* devicon */
 	i {
 		font-size: 10rem;
-		/* animation: 1s ease-out 0s 1 appear; */
 		margin: 5px;
 		animation-name: appear; 
 		animation-duration: 1s;
 		animation-iteration-count: 1;
 		animation-timing-function: ease-in;
-	
 	}
